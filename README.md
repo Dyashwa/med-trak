@@ -1,4 +1,4 @@
-# 💊 Medication Tracker (Full Stack App)
+# 💊 Med-trak(A Full Stack Medication Adherence and Effectiveness Tracker App)
 
 A full-stack web application to help users **track medications, adherence, and effectiveness** with real-time insights.
 
