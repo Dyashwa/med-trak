@@ -219,23 +219,6 @@ npm run dev
 http://localhost:5173
 ```
 
----
-
-## 🌐 Deployment
-
-### Frontend
-
-* Deploy on Vercel
-
-### Backend
-
-* Deploy on Render / Railway
-
-### Database
-
-* Hosted on Supabase
-
----
 
 ## 🔐 Security Notes
 
